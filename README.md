@@ -25,6 +25,13 @@ The application automates the collection of e-commerce data through **advanced w
 - ☁️ **Cloud Deployment**  
   Deployed live on **Render**, enabling public access via a web browser.
 
+
+## 🌍 Live Demo
+
+The application is deployed and publicly accessible at:  
+🔗 https://data-mining-homework-wbkh.onrender.com/
+
+
 ## 🎯 Project Objectives
 
 - Implement a **hybrid scraping architecture** capable of handling both static HTML pages and dynamic GraphQL APIs.
