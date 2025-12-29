@@ -4,6 +4,27 @@ This project is a **Python-based web application developed using the Streamlit f
 
 The application automates the collection of e-commerce data through **advanced web scraping techniques**, applies **Deep Learning–based sentiment analysis using Hugging Face Transformers**, and presents insights through an **interactive web dashboard**.
 
+## 🌍 Live Demo
+
+The application is deployed and publicly accessible at:  
+🔗 https://data-mining-homework-wbkh.onrender.com/
+
+## 🖼️ Application Screenshots
+
+### 🛒 Scraped Products View
+![Scraped Products](products.png)
+
+
+### 💬 Customer Testimonials
+![Testimonials](testimonials.png)
+
+
+### 📊 Review Sentiment Analysis
+![Sentiment Analysis](reviews_1.png)
+![Sentiment Analysis 2](reviews_2.png)
+
+
+
 ## 🚀 Features
 
 - 🌐 **Multi-Source Scraping**  
@@ -24,12 +45,6 @@ The application automates the collection of e-commerce data through **advanced w
 
 - ☁️ **Cloud Deployment**  
   Deployed live on **Render**, enabling public access via a web browser.
-
-
-## 🌍 Live Demo
-
-The application is deployed and publicly accessible at:  
-🔗 https://data-mining-homework-wbkh.onrender.com/
 
 
 ## 🎯 Project Objectives
